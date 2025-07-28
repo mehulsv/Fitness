@@ -1,5 +1,5 @@
 # Airfare Prediction Project
-Overview
+Overview:
 This project is focused on predicting airfare prices using various machine learning techniques within a Django framework. The prediction model integrates a scoring system that evaluates speech recognition, pronunciation, and clarity, enhancing the user experience.
 
 Project Structure
